@@ -8,6 +8,10 @@ this project uses date-based 'snapshot' version identifiers.
 
 ## [Unreleased]
 
+### Deprecated
+
+- `\exp_after:wN` in favor of `\exp_after:w`
+
 ## [2026-08-10]
 
 ### Changed
